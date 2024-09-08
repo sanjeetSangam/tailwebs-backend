@@ -66,7 +66,7 @@ This repository contains the backend components for the Teacher Portal project. 
 
     -   Description: Edit Student.
 
--   **PATCH /auth/v1/student/delete/:studentId**
+-   **DELETE /auth/v1/student/delete/:studentId**
 
     -   Description: Delete Student.
 
